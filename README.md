@@ -2,7 +2,7 @@
 
 - **Full Report:** [View the complete project report](https://github.com/IEn-Lee/Endourological-Test-Bench-Embedded-Control/blob/main/User%20Interface%20and%20Control%20Software%20for%20an%20Automated%20Test%20Bench%20for%20the%20Analysis%20of%20Biofilm%20Formation_Project_Thesis.pdf)
 - **Illustrated Overview:** [Explore the project with figures and explanations](https://github.com/IEn-Lee/Endourological-Test-Bench-Embedded-Control/blob/main/Project%20Thesis%20Portfolio.pdf)
-- **Text Summary:** [Read the text-based project summary](https://github.com/IEn-Lee/Endourological-Test-Bench-Embedded-Control/blob/main/Project_Thesis_Selected_Extract.pdf) <bar>
+- **Text Summary:** [Read the text-based project summary](https://github.com/IEn-Lee/Endourological-Test-Bench-Embedded-Control/blob/main/Project_Thesis_Selected_Extract.pdf) <bra>
 *(If GitHub fails to display the PDF preview, please download the file and open it locally)*
 
 
