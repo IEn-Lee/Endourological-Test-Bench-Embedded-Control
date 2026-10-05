@@ -1,7 +1,12 @@
-# FAPs GUI-Design Project
-This is a 10 ECTS project carried out during the WS2025 semester at FAU, under the topic "User Interface and Control Software for an Automated Test Bench for the Analysis of Biofilm Formation" in the FAPS department.
+## Project Documentation
 
-The project focuses on developing an Arduino-based automated test platform designed to simulate urination cycles and monitor biofilm formation on artificial urethral sphincter implants. The system includes a touch-based user interface and hardware control components such as a peristaltic pump, UV sterilization, and temperature sensing.
+- **Full Report:** [View the complete project report](https://github.com/IEn-Lee/Endourological-Test-Bench-Embedded-Control/blob/main/User%20Interface%20and%20Control%20Software%20for%20an%20Automated%20Test%20Bench%20for%20the%20Analysis%20of%20Biofilm%20Formation_Project_Thesis.pdf)
+- **Illustrated Overview:** [Explore the project with figures and explanations](https://github.com/IEn-Lee/Endourological-Test-Bench-Embedded-Control/blob/main/Project%20Thesis%20Portfolio.pdf)
+- **Text Summary:** [Read the text-based project summary](https://github.com/IEn-Lee/Endourological-Test-Bench-Embedded-Control/blob/main/Project_Thesis_Selected_Extract.pdf)
+*(If GitHub fails to display the PDF preview, please download the file and open it locally)*
+
+
+---
 
 
 # User Interface and Control Software for a Automated Test Bench for the Analysis of Biofilm Formation
@@ -13,6 +18,12 @@ The following tasks must be completed as part of the work:<br>
 -Development of a touch screen UI for the Arduino Giga Display Shield, which allows to set how many micturition cycles per day should be conducted, how long each cycle will be (in seconds) and to start the system. Additionally it has to show the ambient temperature, the selected parameters and the elapsed time and micturition cycles.<br>
 -Development of a control software, which uses the Arduino Motor Shield to control a UCV sterilization LED and a peristaltic pump and a BMP280 sensor to measure the ambient temperature.<br>
 -Evaluation of the system (ease of use, functionality)
+
+
+# FAPs GUI-Design Project
+This is a 10 ECTS project carried out during the WS2025 semester at FAU, under the topic "User Interface and Control Software for an Automated Test Bench for the Analysis of Biofilm Formation" in the FAPS department.
+
+The project focuses on developing an Arduino-based automated test platform designed to simulate urination cycles and monitor biofilm formation on artificial urethral sphincter implants. The system includes a touch-based user interface and hardware control components such as a peristaltic pump, UV sterilization, and temperature sensing.
 
 
 ## Arduino Cloud Online IDE Version (Highly recommended)
