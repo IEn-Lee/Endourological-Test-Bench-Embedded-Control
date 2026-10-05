@@ -1,13 +1,3 @@
-## Arduino Cloud Online IDE Version (Highly recommended)
-This project provides an environment and configuration tailored for the Arduino Cloud Online IDE.  
-This release is based on version 2.3.4, with layout optimizations specifically for the Arduino Cloud Online IDE and several known issues fixed.  
-(The list of fixes is documented [Here](https://github.com/IEn-Lee/FAPs_GUI-Design/tree/055a39892351faafc0a5967386c1bd63970b6a5c/Arduino%20Cloud%20Online%20IDE%20Revision%20Log))
-
-🔗 **Arduino Cloud Public Link**  
-https://app.arduino.cc/sketches/b8669c34-cbed-4f0a-9a7e-f5ab9a029865?view-mode=preview  
-Note: Please use LVGL version 8.3.10.
-
-
 # FAPs GUI-Design Project
 This is a 10 ECTS project carried out during the WS2025 semester at FAU, under the topic "User Interface and Control Software for an Automated Test Bench for the Analysis of Biofilm Formation" in the FAPS department.
 
@@ -23,3 +13,13 @@ The following tasks must be completed as part of the work:<br>
 -Development of a touch screen UI for the Arduino Giga Display Shield, which allows to set how many micturition cycles per day should be conducted, how long each cycle will be (in seconds) and to start the system. Additionally it has to show the ambient temperature, the selected parameters and the elapsed time and micturition cycles.<br>
 -Development of a control software, which uses the Arduino Motor Shield to control a UCV sterilization LED and a peristaltic pump and a BMP280 sensor to measure the ambient temperature.<br>
 -Evaluation of the system (ease of use, functionality)
+
+
+## Arduino Cloud Online IDE Version (Highly recommended)
+This project provides an environment and configuration tailored for the Arduino Cloud Online IDE.  
+This release is based on version 2.3.4, with layout optimizations specifically for the Arduino Cloud Online IDE and several known issues fixed.  
+(The list of fixes is documented [Here](https://github.com/IEn-Lee/FAPs_GUI-Design/tree/055a39892351faafc0a5967386c1bd63970b6a5c/Arduino%20Cloud%20Online%20IDE%20Revision%20Log))
+
+🔗 **Arduino Cloud Public Link**  
+https://app.arduino.cc/sketches/b8669c34-cbed-4f0a-9a7e-f5ab9a029865?view-mode=preview  
+Note: Please use LVGL version 8.3.10.
